@@ -124,7 +124,7 @@ footer
 {
     header {max-width: 768px;}
     header h1 {font-size: 1.7em;}
-    header a {width:7em; height: 3.3em; font-size: 0.8em;margin-left: 15em;}
+    header a {width:7em; height: 3.3em; font-size: 0.8em;margin-left: 13em;}
     #container {max-width: 90%; max-height:auto;}
     #content img {display:block; width: 60%;}
     #content {font-size: 0.96em; margin: 1em 15px 1em 15px;}
